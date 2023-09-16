@@ -1,0 +1,33 @@
+.main-cart {
+  color: #000;
+  border: 0px;
+  border: none;
+}
+.cart {
+  border: none !important;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.first-title {
+  color: #2f80ed !important;
+  padding: 8px 0;
+}
+.main-cart h4 {
+  margin-bottom: 8px;
+}
+.main-cart .title {
+  margin-top: 15px;
+}
+
+ul li {
+  margin-top: 10px;
+  color: rgba(28, 27, 27, 0.6);
+}
+
+.sum-hour {
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
+.sum-total {
+  margin-top: 15px;
+}
