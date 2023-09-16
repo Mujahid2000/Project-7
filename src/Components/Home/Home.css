@@ -1,0 +1,55 @@
+
+.card{
+    width: 312px;
+    height: 402px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+}
+.photo{
+    width: 280px;
+    height: 144px;
+    border-radius: 10px;
+}
+.title-name{
+    font-size: 20px;
+}
+
+.flex-hobe{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    
+}
+
+.button-style{
+    height: 40px;
+    width: 280px;
+    border-radius: 10px;
+    background-color: #2F80ED;
+    border: none;
+    color: white;
+    
+}
+
+.text-color{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+.home-container{
+    display: flex;
+    justify-content: space-between;
+}
+.card-container{
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+}
+.cart{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
